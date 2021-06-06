@@ -1,0 +1,16 @@
+{
+  "name": "kahoot-join",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc && node dist/kahoot-join.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
