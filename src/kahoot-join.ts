@@ -1,4 +1,5 @@
 import { chromium } from "playwright";
+// Replace with the pin you want to hack
 const pin: string = '100000';
 (async () => {
   const browser = await chromium.launch()
